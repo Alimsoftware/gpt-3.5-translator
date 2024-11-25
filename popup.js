@@ -39,7 +39,7 @@ const supported_languages = {
   "5": "Spanish",
   "6": "Italian",
   "7": "English",
-  "8": "Thai",
+  "8": "Braziliam Portuguese",
 };
 
 const targetLanguageSelect = document.getElementById("targetLanguage");
